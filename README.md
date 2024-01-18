@@ -1,3 +1,8 @@
+#About
+
+This is the testimonial card template with features having;
+Go to next, prev, shuffle, automatic next after 2sec.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
